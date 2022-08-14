@@ -1,3 +1,4 @@
+![example cinema](https://user-images.githubusercontent.com/105388226/184532713-fc75a9b9-f62d-490a-8bf9-2181758042df.jpg)
 - 👋 Hi, I’m @Hotbones
 - 👀 I’m interested in languages
 - 🌱 I’m currently learning phyton
