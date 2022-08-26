@@ -3,7 +3,7 @@
 - 👀 I’m interested in languages
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate in a software development company
-- 📫 to contact me, just send me a message..
+- 📫 to contact me, just send me a message to hotbones22@gmail.com.
 
 <!---
 Hotbones/Hotbones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
