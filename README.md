@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Hotbones
-- 👀 I’m interested in languages
+- 👀 I’m interested in languages & QA testing
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate in a software development company
 - 📫 to contact me, just send me a message to hotbones22@gmail.com.
