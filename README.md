@@ -1,7 +1,7 @@
 
 ## Hi, I’m Bones 👋
 
-- 👀 I’m interested in languages & Functional Analyst
+- 👀 I’m interested in QA, languages & Functional Analyst
 - 🌱 I’m currently learning phyton
 - 📫 to contact me, just send me a message to hotbones22@gmail.com or in [Linkedin](https://www.linkedin.com/in/matiascanadas/)
 
