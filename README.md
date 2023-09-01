@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in QA, languages & Functional Analyst
 - 🌱 I’m currently learning phyton & Java Script
-- 📫 to contact me, just send me a message to hotbones22@gmail.com or in [Linkedin](https://www.linkedin.com/in/matiascanadas/)
+- 📫 to contact me, just send me a message to  [Linkedin](https://www.linkedin.com/in/matiascanadas/)
 
 
 ## Technologies used:
