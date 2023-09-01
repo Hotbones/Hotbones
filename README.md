@@ -2,7 +2,7 @@
 ## Hi, I’m Mr. Bones 👋
 
 - 👀 I’m interested in QA, languages & Functional Analyst
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning phyton & Java Script
 - 📫 to contact me, just send me a message to hotbones22@gmail.com or in [Linkedin](https://www.linkedin.com/in/matiascanadas/)
 
 
