@@ -29,3 +29,7 @@
                                                     Project with Python, tailwind & Django 👀 (from scratch)
 ![Annie app](https://user-images.githubusercontent.com/105388226/197311028-d319f07d-17d6-4a72-85d7-394cf09b0051.png)
 
+                                                     Project with Cypress 👀 
+![Zero-Bank](https://github.com/Hotbones/Hotbones/assets/105388226/3182c46c-f119-47c3-a25a-bdc46d15a697)
+
+
