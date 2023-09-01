@@ -1,5 +1,5 @@
 
-## Hi, I’m Bones 👋
+## Hi, I’m Mr. Bones 👋
 
 - 👀 I’m interested in QA, languages & Functional Analyst
 - 🌱 I’m currently learning phyton
