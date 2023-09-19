@@ -1,9 +1,9 @@
 
 ## Hi, I’m Mr. Bones 👋
 
-- 👀 I’m interested in QA, languages & Functional Analyst
-- 🌱 I’m currently learning phyton & Java Script
-- 📫 to contact me, just send me a message to  [Linkedin](https://www.linkedin.com/in/matiascanadas/)
+- 👀 I’m interested in QA Engineer & Functional Analyst
+- 🌱 I’m currently learning phyton, Node, Java Script & Type Script
+- 📫 If you wish to contact me, just send me a message to  [Linkedin](https://www.linkedin.com/in/matiascanadas/)
 
 
 ## Technologies used:
@@ -24,17 +24,18 @@
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" width=10% height=10%>
 </p>
 
-                                                Project with Html and Css 👀
+# Projects: 
+
+# Project with Html and Css 👀
 ![Proyecto final - Pagina CoinBase](https://user-images.githubusercontent.com/105388226/182053320-70bd0b6b-f4cd-4b34-8821-9f1dd02f2c9a.jpg)
 
-                                                    Project with Python & Django 👀
+# Project with Python & Django 👀
 ![video API Rest](https://github.com/Hotbones/Hotbones/assets/105388226/9c975418-ddad-4c58-aacf-cd243dbed460)
 
-
-                                                    Project with Python, tailwind & Django 👀 (from scratch)
+# Project with Python, tailwind & Django 👀 (from scratch)
 ![Annie app](https://user-images.githubusercontent.com/105388226/197311028-d319f07d-17d6-4a72-85d7-394cf09b0051.png)
 
-                                                     Project with Node, Java Script & Cypress 👀 
+# Project with Node, Java Script & Cypress 👀 
 ![Zero-Bank](https://github.com/Hotbones/Hotbones/assets/105388226/3182c46c-f119-47c3-a25a-bdc46d15a697)
 
 
