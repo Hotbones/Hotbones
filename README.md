@@ -24,7 +24,7 @@
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" width=10% height=10%>
 </p>
 
-                                                Project with Html and css 👀
+                                                Project with Html and Css 👀
 ![Proyecto final - Pagina CoinBase](https://user-images.githubusercontent.com/105388226/182053320-70bd0b6b-f4cd-4b34-8821-9f1dd02f2c9a.jpg)
 
                                                     Project with Python & Django 👀
@@ -34,7 +34,7 @@
                                                     Project with Python, tailwind & Django 👀 (from scratch)
 ![Annie app](https://user-images.githubusercontent.com/105388226/197311028-d319f07d-17d6-4a72-85d7-394cf09b0051.png)
 
-                                                     Project with Cypress 👀 
+                                                     Project with Node, Java Script & Cypress 👀 
 ![Zero-Bank](https://github.com/Hotbones/Hotbones/assets/105388226/3182c46c-f119-47c3-a25a-bdc46d15a697)
 
 
