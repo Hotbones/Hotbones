@@ -2,7 +2,7 @@
 ## Hi, I’m Mr. Bones 👋
 
 - 👀 I’m interested in QA Engineer & Functional Analyst
-- 🌱 I’m currently learning phyton, Node, Java Script & Type Script
+- 🌱 I’m currently learning phyton, Node Js, Java Script & Type Script
 - 📫 If you wish to contact me, just send me a message to  [Linkedin](https://www.linkedin.com/in/matiascanadas/)
 
 
