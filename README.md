@@ -1,5 +1,5 @@
 
-## Hi, I’m Mr. Bones 👋
+# Hi, I’m Mr. Bones 👋
 
 - 👀 I’m interested in QA Engineer & Functional Analyst
 - 🌱 I’m currently learning phyton, Node Js, Java Script & Type Script
@@ -30,19 +30,22 @@ Give a ⭐ or a ☕ if you like this!
 
 <a href="https://www.buymeacoffee.com/mrbones" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
-
-# Projects: 
-
-# With Html and Css 👀
+# Examples Projects: 
+------------------------------------
+## With Html and Css 👀
 ![Proyecto final - Pagina CoinBase](https://user-images.githubusercontent.com/105388226/182053320-70bd0b6b-f4cd-4b34-8821-9f1dd02f2c9a.jpg)
 
-# With Python & Django 👀
+## With Python & Django 👀
 ![video API Rest](https://github.com/Hotbones/Hotbones/assets/105388226/9c975418-ddad-4c58-aacf-cd243dbed460)
 
-# With Python, tailwind & Django 👀 (from scratch)
+## With Python, tailwind & Django 👀 (from scratch)
 ![Annie app](https://user-images.githubusercontent.com/105388226/197311028-d319f07d-17d6-4a72-85d7-394cf09b0051.png)
 
-# With Node, Java Script & Cypress 👀 
+## With Node js, Java Script & Cypress 👀 
 ![Zero-Bank](https://github.com/Hotbones/Hotbones/assets/105388226/3182c46c-f119-47c3-a25a-bdc46d15a697)
+
+## With Node js, Java Script & Playwright 👀 
+![Test 5](https://github.com/Hotbones/Hotbones/assets/105388226/326f5f2d-d41f-4fb0-bde1-327a5d54a727)
+
 
 
