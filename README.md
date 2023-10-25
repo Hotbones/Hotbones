@@ -1,6 +1,8 @@
 
 # Hi, I’m Mr. Bones 👋
 
+![WhatsApp Image 2023-10-02 at 10 45 04 AM](https://github.com/Hotbones/Hotbones/assets/105388226/1a2ec7cb-1dc6-4fa0-a2a5-0dacc482b160)
+
 - 👀 I’m interested in QA Engineer & Functional Analyst
 - 🌱 I’m currently learning phyton, Node Js, Java Script & Type Script
 - 📫 If you wish to contact me, just send me a message to  [Linkedin](https://www.linkedin.com/in/matiascanadas/)
@@ -32,20 +34,39 @@ Give a ⭐ or a ☕ if you like this!
 
 # Examples Projects: 
 ------------------------------------
-## With Html and Css 👀
-![Proyecto final - Pagina CoinBase](https://user-images.githubusercontent.com/105388226/182053320-70bd0b6b-f4cd-4b34-8821-9f1dd02f2c9a.jpg)
 
-## With Python & Django 👀
-![video API Rest](https://github.com/Hotbones/Hotbones/assets/105388226/9c975418-ddad-4c58-aacf-cd243dbed460)
+
+
+## With Node js, Java Script & Playwright 👀 
+![Test 5](https://github.com/Hotbones/Hotbones/assets/105388226/326f5f2d-d41f-4fb0-bde1-327a5d54a727)
+
+## e commerce With Node js, Java Script & Cypress 👀
+![e commerce](https://github.com/Hotbones/e.commerce/assets/105388226/6b49176e-8005-4c5c-a761-5a171cc91c3d)
+
+## Space - With Node js, Java Script & Cypress 👀
+![space](https://github.com/Hotbones/Space-Beyond/assets/105388226/8c182c55-1ae1-47ab-92c5-7968f78d196f)
+
+## With Chatgpt, Node js, Java Script & Cypress 👀
+![ejemplo con chat gpt](https://github.com/Hotbones/Ejemplo-usando-Chatgpt/assets/105388226/a6c572d8-5381-4217-879a-847f7da886ce)
+
+## Zero Bank - With Node js, Java Script & Cypress 👀 
+![Zero-Bank](https://github.com/Hotbones/Hotbones/assets/105388226/3182c46c-f119-47c3-a25a-bdc46d15a697)
+
+## API REST con Python y Django 👀
+![video API Rest](https://github.com/Hotbones/API-Rest/assets/105388226/b5079c09-db0a-4738-9601-3a9f66bbe140)
+
+## Paddle Ball With react & python
+https://paddle-ball.netlify.app/
+![homepagge](https://user-images.githubusercontent.com/105388226/204401748-ca0dbbf3-8427-4c28-ae3b-d0638c83e5fe.png)
 
 ## With Python, tailwind & Django 👀 (from scratch)
 ![Annie app](https://user-images.githubusercontent.com/105388226/197311028-d319f07d-17d6-4a72-85d7-394cf09b0051.png)
 
-## With Node js, Java Script & Cypress 👀 
-![Zero-Bank](https://github.com/Hotbones/Hotbones/assets/105388226/3182c46c-f119-47c3-a25a-bdc46d15a697)
+## With Python & Django 👀
+![video API Rest](https://github.com/Hotbones/Hotbones/assets/105388226/9c975418-ddad-4c58-aacf-cd243dbed460)
 
-## With Node js, Java Script & Playwright 👀 
-![Test 5](https://github.com/Hotbones/Hotbones/assets/105388226/326f5f2d-d41f-4fb0-bde1-327a5d54a727)
+## With Html and Css 👀
+![Proyecto final - Pagina CoinBase](https://user-images.githubusercontent.com/105388226/182053320-70bd0b6b-f4cd-4b34-8821-9f1dd02f2c9a.jpg)
 
 
 
