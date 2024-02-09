@@ -6,6 +6,7 @@
 - 👀 I’m interested in QA & Functional Analyst
 - 🌱 I’m currently learning phyton, Node Js, Java Script & Type Script
 - 📫 If you wish to contact me, just send me a message to  [Linkedin](https://www.linkedin.com/in/matiascanadas/)
+- 💻 if you want to see my [Portfolio](https://matiascanadas.netlify.app/)
 
 
 ## Technologies used:
