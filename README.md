@@ -63,9 +63,6 @@ https://paddle-ball.netlify.app/
 ## With Python, tailwind & Django 👀 (from scratch)
 ![Annie app](https://user-images.githubusercontent.com/105388226/197311028-d319f07d-17d6-4a72-85d7-394cf09b0051.png)
 
-## With Python & Django 👀
-![video API Rest](https://github.com/Hotbones/Hotbones/assets/105388226/9c975418-ddad-4c58-aacf-cd243dbed460)
-
 ## With Html and Css 👀
 ![Proyecto final - Pagina CoinBase](https://user-images.githubusercontent.com/105388226/182053320-70bd0b6b-f4cd-4b34-8821-9f1dd02f2c9a.jpg)
 
