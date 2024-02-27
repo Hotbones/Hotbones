@@ -17,6 +17,7 @@
    <img src="https://static.vecteezy.com/system/resources/previews/021/608/790/original/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg" width=8% height=8%>
    <img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" width=8% height=8%>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png"  width=8% height=8%>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcrKA72OoWpxuvuCz1ikA_4oGlPtZIEhGKsA&usqp=CAU"  width=8% height=8%>
 </p> 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"  width=8% height=8%>
@@ -25,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width=10% height=10%>
   <img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2048-swmlmjca.png" width=10% height=10%>
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" width=10% height=10%>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7q1aKm2hoNe89BLjVju8XZRcYj5eYtVaR6Tc-bzRTUZYSj4l3RQVINLPVK210WF1KMk&usqp=CAU"  width=10% height=10%>
 </p>
 
 ### Show your support
@@ -36,7 +38,8 @@ Give a ⭐ or a ☕ if you like this!
 # Examples Projects: 
 ------------------------------------
 
-
+## With Html, Css, Js, Jira/Qmetry
+![Home](https://github.com/Hotbones/Nutricion/assets/105388226/76aed562-45f2-46aa-b779-d34765533f90)
 
 ## With Node js, Java Script & Playwright 👀 
 ![Test 5](https://github.com/Hotbones/Hotbones/assets/105388226/326f5f2d-d41f-4fb0-bde1-327a5d54a727)
