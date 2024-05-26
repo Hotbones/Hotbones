@@ -1,7 +1,8 @@
 
 # Hi, I’m Mr. Bones 👋
 
-![WhatsApp Image 2023-10-02 at 10 45 04 AM](https://github.com/Hotbones/Hotbones/assets/105388226/1a2ec7cb-1dc6-4fa0-a2a5-0dacc482b160)
+![IMG-20171208-WA0017](https://github.com/Hotbones/Hotbones/assets/105388226/9f81eebb-87de-46ee-bf9e-2f1fe11a9d80)
+
 
 - 👀 I’m interested in QA & Functional Analyst
 - 🌱 I’m currently learning phyton, Node Js, Java Script & Type Script
